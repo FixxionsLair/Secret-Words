@@ -1,6 +1,6 @@
 # Secret Words
 
-![Secret Words Thumbnail]()
+![Secret Words Thumbnail](https://github.com/FixxionsLair/Secret-Words/blob/main/Secret%20Words%20Thumbnail.jpg)
 
 A mod that creates 5 custom planets on Outer Wilds. Each of them hides a secret code. Gather them and make your name appear on the mod!
 No Archeologist's yet!
