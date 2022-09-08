@@ -1,6 +1,6 @@
 # Secret Words
 
-![Secret Words Thumbnail](https://user-images.githubusercontent.com/22628069/147869676-25f9b801-a4eb-449e-a624-9fc408c9518d.png)
+![Secret Words Thumbnail]()
 
 Implements unused/removed signals and Signalscope frequencies using [New Horizons](https://github.com/xen-42/outer-wilds-new-horizons).
 
