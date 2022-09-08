@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Sun Station",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"destroy": true,
+	"Orbit": {},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

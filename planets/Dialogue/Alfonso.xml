@@ -1,0 +1,56 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+	<NameField>Alfonso</NameField>
+
+	<DialogueNode>
+		<Name></Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>F*** you found me... The creator toldme  to hide in this planet but there are not many reliable places to do it...</Page>
+			<Page>I tried mimicking the corpses of my brothers but I see you got me...</Page>
+			<Page>Well... You are here for the Secret Words right? First you will have to help me with my math and Spanish homework...</Page>
+			<Page>So please, tell me... What's 2 +3?</Page>
+		</Dialogue>
+
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Cinco</Text>
+				<DialogueTarget>1</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>Tres</Text>
+				<DialogueTarget>2</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>Ocho</Text>
+				<DialogueTarget>3</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>2</Name>
+		<Dialogue>
+			<Page>Te la meto del revés HAHAHAHAHAHAHA!</Page>
+			<Page>But the answer is wrong... Try again...</Page>
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>1</Name>
+		<Dialogue>
+			<Page>Por el culo te la hinco HHAHAHAHAHAHAH! Te falta calle!</Page>
+			<Page>Sorry... Sorry... I had to do it... The answer is right! So listen to me...</Page>
+			<Page>"We may not have much in common, you and I. Still, I consider you as a friend"</Page>
+			<Page>Those are the secret words! Now send them to the creator!</Page>
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>3</Name>
+		<Dialogue>
+			<Page>Por el culo te la entocho! HAHAHAHAHAHHA!</Page>
+			<Page>But I cannot give tell you the Secret Words because the answer is wrong, you can try again if you like.</Page>
+		</Dialogue>
+	</DialogueNode>
+
+</DialogueTree>

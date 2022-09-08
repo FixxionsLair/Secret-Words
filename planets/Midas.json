@@ -1,0 +1,171 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Midas",
+	"Atmosphere": {
+		"clouds": {
+			"capPath": "planets/assets/Midas_Cap.png",
+			"fluidType": "none",
+			"hasLightning": true,
+			"innerCloudRadius": 575.0,
+			"outerCloudRadius": 625.0,
+			"rampPath": "planets/assets/Midas_Ramp.png",
+			"texturePath": "planets/assets/Midas.png",
+			"tint": {
+				"r": 255,
+				"g": 240,
+				"b": 50,
+				"a": 1
+			}
+		},
+		"fogDensity": 1.0,
+		"fogSize": 259.0,
+		"fogTint": {
+			"r": 105,
+			"g": 105,
+			"b": 1,
+			"a": 1
+		},
+		"hasRain": true,
+		"size": 580.0
+	},
+	"Base": {
+		"ambientLight": 0.8,
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 12.0,
+		"surfaceSize": 750.0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/Midas_HeightMap.png",
+		"maxHeight": 425.0,
+		"minHeight": 400.0,
+		"textureMap": "planets/assets/Midas_TextureMap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"isTidallyLocked": true,
+		"semiMajorAxis": 14750.0,
+		"trueAnomaly": 170.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": -61.1772728,
+					"y": -409.738129,
+					"z": 10.2259216
+				},
+				"rotation": {
+					"x": 4.1850214,
+					"y": 33.9572029,
+					"z": 176.866287
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": -65.00688,
+					"y": -409.505371,
+					"z": 14.72551
+				},
+				"rotation": {
+					"x": 8.957975,
+					"y": 115.418396,
+					"z": 186.181137
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": -57.54637,
+					"y": -410.165924,
+					"z": 13.99794
+				},
+				"rotation": {
+					"x": 355.038239,
+					"y": 232.47052,
+					"z": 181.644577
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": -61.048996,
+					"y": -409.941956,
+					"z": 17.5608368
+				},
+				"rotation": {
+					"x": 17.5512753,
+					"y": 167.8478,
+					"z": 180.965775
+				},
+				"scale": 0.99999994
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": 0.532457352,
+					"y": -405.2235,
+					"z": -0.308398247
+				},
+				"rotation": {
+					"x": 24.5785656,
+					"y": 171.277679,
+					"z": 170.093582
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/SW3.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			}
+		],
+		"singularities": [
+			{
+				"makeZeroGVolume": false,
+				"pairedSingularity": "Timber3",
+				"uniqueID": "Midas",
+				"position": {
+					"x": -61.6008835,
+					"y": -412.8094,
+					"z": 13.827652
+				},
+				"size": 2.0,
+				"type": "whiteHole"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"Ring": {
+		"fluidType": "plasma",
+		"inclination": 90.0,
+		"innerRadius": 720.0,
+		"longitudeOfAscendingNode": 90.0,
+		"outerRadius": 970.0,
+		"rotationSpeed": 100.0,
+		"texture": "planets/assets/Midas_Ring.png",
+		"unlit": true
+	},
+	"ShipLog": {},
+	"Water": {
+		"size": 410.0,
+		"tint": {
+			"r": 1530,
+			"g": 1440,
+			"b": 300,
+			"a": 1
+		},
+		"curve": [
+			{
+				"value": 1.0
+			},
+			{
+				"time": 18.0,
+				"value": 1.0
+			}
+		]
+	}
+}

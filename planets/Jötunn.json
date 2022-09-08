@@ -1,0 +1,541 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Jötunn",
+	"Atmosphere": {
+		"clouds": {
+			"capPath": "planets/assets/Jötunn_Cap.png",
+			"fluidType": "none",
+			"innerCloudRadius": 1125.0,
+			"outerCloudRadius": 1250.0,
+			"rampPath": "planets/assets/Jötunn_Ramp.png",
+			"texturePath": "planets/assets/Jötunn.png",
+			"tint": {
+				"r": 204,
+				"g": 255,
+				"b": 255,
+				"a": 0
+			}
+		},
+		"fogDensity": 1.0,
+		"fogSize": 259.0,
+		"fogTint": {
+			"r": 204,
+			"g": 255,
+			"b": 255,
+			"a": 0
+		},
+		"hasRain": true,
+		"size": 1250.0
+	},
+	"Base": {
+		"ambientLight": 0.7,
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 16.0,
+		"surfaceSize": 750.0
+	},
+	"canShowOnTitle": false,
+	"HeightMap": {
+		"heightMap": "planets/assets/Jötunn_HeightMap.png",
+		"maxHeight": 525.0,
+		"minHeight": 500.0,
+		"textureMap": "planets/assets/Jötunn_TextureMap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"semiMajorAxis": 18000.0,
+		"trueAnomaly": 45.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": -2.7109375,
+					"y": -511.281433,
+					"z": 3.10742188
+				},
+				"rotation": {
+					"x": 358.847565,
+					"y": 103.983337,
+					"z": 179.713058
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": 4.65234375,
+					"y": -511.0501,
+					"z": 0.859375
+				},
+				"rotation": {
+					"x": 2.63437176,
+					"y": 289.238434,
+					"z": 179.660721
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": 5.279297,
+					"y": -511.0738,
+					"z": 3.2578125
+				},
+				"rotation": {
+					"x": 0.592051148,
+					"y": 13.7091055,
+					"z": 182.589325
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": 5.81640625,
+					"y": -511.095276,
+					"z": 5.361328
+				},
+				"rotation": {
+					"x": 0.590692163,
+					"y": 13.7391586,
+					"z": 182.589645
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": 6.33984375,
+					"y": -511.082581,
+					"z": 7.4140625
+				},
+				"rotation": {
+					"x": 357.782684,
+					"y": 14.2160692,
+					"z": 180.663376
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": -2.37109375,
+					"y": -511.274475,
+					"z": 5.00585938
+				},
+				"rotation": {
+					"x": 359.7774,
+					"y": 10.8015652,
+					"z": 181.1666
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": -2.01757813,
+					"y": -511.267151,
+					"z": 6.76953125
+				},
+				"rotation": {
+					"x": 359.7771,
+					"y": 10.8168516,
+					"z": 181.166519
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": -1.66992188,
+					"y": -511.210754,
+					"z": 8.5078125
+				},
+				"rotation": {
+					"x": 357.8248,
+					"y": 10.8930159,
+					"z": 180.790771
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/ConversationPivot/Character_NOM_Solanum/Nomai_ANIM_SkyWatching_Idle",
+				"position": {
+					"x": 2.95117188,
+					"y": -511.0644,
+					"z": 9.964844
+				},
+				"rotation": {
+					"x": 2.219495,
+					"y": 194.404526,
+					"z": 179.343918
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": 0.7675781,
+					"y": -511.102722,
+					"z": 10.1660156
+				},
+				"rotation": {
+					"x": 2.25429654,
+					"y": 197.784943,
+					"z": 179.4759
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"position": {
+					"x": 5.248047,
+					"y": -511.0451,
+					"z": 9.146484
+				},
+				"rotation": {
+					"x": 2.29540539,
+					"y": 203.529083,
+					"z": 179.7041
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -1.28710938,
+					"y": -511.180969,
+					"z": -10.7666016
+				},
+				"rotation": {
+					"x": 359.035736,
+					"y": 4.71593857,
+					"z": 182.302917
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -26.5273438,
+					"y": -509.1153,
+					"z": 16.86914
+				},
+				"rotation": {
+					"x": 2.70811844,
+					"y": 119.482918,
+					"z": 183.321838
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -26.8125,
+					"y": -510.533875,
+					"z": -2.98828125
+				},
+				"rotation": {
+					"x": 2.08962417,
+					"y": 79.7117844,
+					"z": 178.01236
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 6.78710938,
+					"y": -510.221619,
+					"z": 25.2207031
+				},
+				"rotation": {
+					"x": 6.21138144,
+					"y": 196.605515,
+					"z": 178.556412
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -8.498047,
+					"y": -508.914368,
+					"z": 33.06836
+				},
+				"rotation": {
+					"x": 12.3705845,
+					"y": 165.5589,
+					"z": 184.0608
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 20.5292969,
+					"y": -509.7016,
+					"z": 0.18359375
+				},
+				"rotation": {
+					"x": 3.85640717,
+					"y": 274.5677,
+					"z": 181.500626
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/DB_JellyfishinIce/Jelly_Rock_Geo",
+				"position": {
+					"x": -20.1523438,
+					"y": -510.363342,
+					"z": 30.4414063
+				},
+				"rotation": {
+					"x": 349.541534,
+					"y": 146.212311,
+					"z": 175.118851
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/DB_JellyfishinIce/Jelly_Rock_Geo",
+				"position": {
+					"x": 23.59375,
+					"y": -509.899475,
+					"z": 18.9375
+				},
+				"rotation": {
+					"x": 1.97722173,
+					"y": 234.553375,
+					"z": 175.2187
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 16.96289,
+					"y": -508.198425,
+					"z": 48.49121
+				},
+				"rotation": {
+					"x": 3.66542363,
+					"y": 222.117233,
+					"z": 178.488251
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -16.2988281,
+					"y": -507.250916,
+					"z": 61.64258
+				},
+				"rotation": {
+					"x": 3.09551787,
+					"y": 140.5134,
+					"z": 172.959183
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -49.79492,
+					"y": -508.195374,
+					"z": 54.69336
+				},
+				"rotation": {
+					"x": 12.1548147,
+					"y": 107.380165,
+					"z": 170.374863
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -63.8417969,
+					"y": -507.699646,
+					"z": 24.96289
+				},
+				"rotation": {
+					"x": 8.381321,
+					"y": 80.66093,
+					"z": 174.607361
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -54.88672,
+					"y": -508.8095,
+					"z": -0.977539063
+				},
+				"rotation": {
+					"x": 359.557739,
+					"y": 59.22636,
+					"z": 161.913116
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -43.39258,
+					"y": -510.6303,
+					"z": -31.6152344
+				},
+				"rotation": {
+					"x": 357.035217,
+					"y": 36.9414177,
+					"z": 159.106247
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": -8.318359,
+					"y": -508.0572,
+					"z": -47.36035
+				},
+				"rotation": {
+					"x": 8.407448,
+					"y": 10.6506939,
+					"z": 190.614578
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 28.6035156,
+					"y": -506.84613,
+					"z": -34.8164063
+				},
+				"rotation": {
+					"x": 3.342432,
+					"y": 341.853821,
+					"z": 190.0933
+				},
+				"scale": 0.999999762
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 54.41797,
+					"y": -506.55658,
+					"z": -3.48730469
+				},
+				"rotation": {
+					"x": 5.9873,
+					"y": 308.395477,
+					"z": 177.267288
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 53.36328,
+					"y": -509.145569,
+					"z": 33.98633
+				},
+				"rotation": {
+					"x": 2.9598546,
+					"y": 272.0196,
+					"z": 183.340851
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 41.41797,
+					"y": -505.9616,
+					"z": 63.5673828
+				},
+				"rotation": {
+					"x": 9.470546,
+					"y": 232.495636,
+					"z": 183.731522
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 13.3789063,
+					"y": -505.0805,
+					"z": 77.60742
+				},
+				"rotation": {
+					"x": 9.441596,
+					"y": 191.117264,
+					"z": 185.762634
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 71.0332,
+					"y": -505.454773,
+					"z": 10.6728516
+				},
+				"rotation": {
+					"x": 12.6902628,
+					"y": 291.744476,
+					"z": 186.2653
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"position": {
+					"x": 51.10742,
+					"y": -504.720764,
+					"z": -39.2226563
+				},
+				"rotation": {
+					"x": 6.45685339,
+					"y": 328.9592,
+					"z": 188.160355
+				},
+				"scale": 0.9999999
+			}
+		],
+		"dialogue": [
+			{
+				"position": {
+					"x": 2.95214844,
+					"y": -512.5644,
+					"z": 9.964844
+				},
+				"radius": 1.5,
+				"xmlFile": "planets/Dialogue/Ginzarel.xml"
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": -26.3535156,
+					"y": -510.26947,
+					"z": 31.8789063
+				},
+				"rotation": {
+					"x": 357.679474,
+					"y": 344.326569,
+					"z": 170.453812
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/SW1.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			}
+		],
+		"singularities": [
+			{
+				"makeZeroGVolume": false,
+				"pairedSingularity": "Timber",
+				"uniqueID": "Jotunn",
+				"position": {
+					"y": -514.2251
+				},
+				"size": 2.0,
+				"type": "whiteHole"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

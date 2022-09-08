@@ -1,0 +1,1316 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "The Lair",
+	"Atmosphere": {
+		"hasTrees": true
+	},
+	"Base": {
+		"ambientLight": 2.0,
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 20.0,
+		"surfaceSize": 355.0
+	},
+	"Bramble": {
+		"nodes": [
+			{
+				"position": {
+					"x": -45.56855,
+					"y": 108.383514,
+					"z": 64.79542
+				},
+				"rotation": {
+					"x": 31.161871,
+					"y": 306.349976,
+					"z": 346.458221
+				},
+				"scale": 0.05,
+				"linksTo": "EternalDoom",
+				"name": "TheLair",
+				"fogTint": {
+					"r": 14,
+					"g": 21,
+					"b": 103,
+					"a": 1
+				},
+				"lightTint": {
+					"r": 42,
+					"g": 63,
+					"b": 309,
+					"a": 1
+				},
+				"possibleExits": [
+					1,
+					2,
+					3,
+					4,
+					5
+				]
+			}
+		]
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/TheLair_HeightMap.png",
+		"maxHeight": 135.0,
+		"minHeight": 125.0,
+		"textureMap": "planets/assets/TheLair_TextureMap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"semiMajorAxis": 11500.0,
+		"trueAnomaly": 100.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/AnglerFishExhibit/AnglerFishTankPivot/Beast_Anglerfish",
+				"position": {
+					"x": 2.0,
+					"y": -200.850311,
+					"z": 1.24023438
+				},
+				"rotation": {
+					"x": 270.0,
+					"y": -7.112838E-08
+				},
+				"scale": 12.0
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -49.7685547,
+					"y": 96.98486,
+					"z": 67.53613
+				},
+				"rotation": {
+					"x": 326.900543,
+					"y": 135.34137,
+					"z": 356.3275
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -52.46582,
+					"y": 101.15303,
+					"z": 59.54297
+				},
+				"rotation": {
+					"x": 359.8205,
+					"y": 53.7184,
+					"z": 34.4307671
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -44.98828,
+					"y": 106.533463,
+					"z": 54.49707
+				},
+				"rotation": {
+					"x": 27.1209545,
+					"y": 345.853363,
+					"z": 9.14924
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -37.84375,
+					"y": 105.483047,
+					"z": 60.3876953
+				},
+				"rotation": {
+					"x": 13.8419027,
+					"y": 273.0374,
+					"z": 331.137665
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -37.11035,
+					"y": 100.727432,
+					"z": 68.35547
+				},
+				"rotation": {
+					"x": 348.483978,
+					"y": 227.1677,
+					"z": 330.112885
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -44.32422,
+					"y": 97.86125,
+					"z": 69.82129
+				},
+				"rotation": {
+					"x": 329.097229,
+					"y": 179.371857,
+					"z": 344.315918
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -52.7373047,
+					"y": 98.77385,
+					"z": 63.5185547
+				},
+				"rotation": {
+					"x": 337.306427,
+					"y": 89.14772,
+					"z": 30.78494
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -49.4736328,
+					"y": 103.778366,
+					"z": 56.95703
+				},
+				"rotation": {
+					"x": 13.502017,
+					"y": 32.8853035,
+					"z": 31.7211037
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -40.6855469,
+					"y": 106.769,
+					"z": 56.76172
+				},
+				"rotation": {
+					"x": 27.4832973,
+					"y": 316.2469,
+					"z": 353.2392
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -35.3447266,
+					"y": 103.197266,
+					"z": 64.38379
+				},
+				"rotation": {
+					"x": 7.22353,
+					"y": 259.47168,
+					"z": 332.085449
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -40.5986328,
+					"y": 98.9104156,
+					"z": 69.91797
+				},
+				"rotation": {
+					"x": 338.541962,
+					"y": 199.033218,
+					"z": 338.2796
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit",
+				"position": {
+					"x": -47.5644531,
+					"y": 97.1226044,
+					"z": 69.15918
+				},
+				"rotation": {
+					"x": 326.846527,
+					"y": 160.1397,
+					"z": 352.813538
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -69.90234,
+					"y": 68.157486,
+					"z": 86.24707
+				},
+				"rotation": {
+					"x": 2.752421,
+					"y": 47.0931129,
+					"z": 61.92572
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -82.12695,
+					"y": 76.9996643,
+					"z": 64.06445
+				},
+				"rotation": {
+					"x": 2.99454331,
+					"y": 36.7327156,
+					"z": 55.85804
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -41.6455078,
+					"y": 87.93381,
+					"z": 85.61914
+				},
+				"rotation": {
+					"x": 28.5880756,
+					"y": 35.65449,
+					"z": 34.3340759
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -33.0898438,
+					"y": 47.0068054,
+					"z": 115.78418
+				},
+				"rotation": {
+					"x": 333.995331,
+					"y": 85.0699844,
+					"z": 66.90547
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -65.58984,
+					"y": 39.8887558,
+					"z": 103.9834
+				},
+				"rotation": {
+					"x": 339.210419,
+					"y": 66.143425,
+					"z": 70.36784
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -95.40137,
+					"y": 12.3813019,
+					"z": 85.2119141
+				},
+				"rotation": {
+					"x": 328.771027,
+					"y": 40.8659935,
+					"z": 86.38002
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -114.629883,
+					"y": 20.3644562,
+					"z": 54.50879
+				},
+				"rotation": {
+					"x": 335.393555,
+					"y": 28.2781467,
+					"z": 80.47877
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -116.832031,
+					"y": -19.74128,
+					"z": 51.74414
+				},
+				"rotation": {
+					"x": 327.009369,
+					"y": 20.77626,
+					"z": 98.2772141
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -127.928711,
+					"y": 7.84465027,
+					"z": 20.7548828
+				},
+				"rotation": {
+					"x": 337.288,
+					"y": 9.663144,
+					"z": 90.48049
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -125.386719,
+					"y": -23.7428131,
+					"z": 16.5263672
+				},
+				"rotation": {
+					"x": 331.571472,
+					"y": 3.31418562,
+					"z": 100.5434
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -127.129883,
+					"y": 24.10286,
+					"z": -18.3828125
+				},
+				"rotation": {
+					"x": 339.580627,
+					"y": 358.3469,
+					"z": 82.41431
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -107.626953,
+					"y": 70.1668549,
+					"z": 13.9462891
+				},
+				"rotation": {
+					"x": 347.928955,
+					"y": 15.4973679,
+					"z": 58.2317429
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -125.521484,
+					"y": -17.0787964,
+					"z": -24.21582
+				},
+				"rotation": {
+					"x": 339.687958,
+					"y": 347.004761,
+					"z": 101.992348
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -120.490234,
+					"y": -43.0816574,
+					"z": -17.92871
+				},
+				"rotation": {
+					"x": 332.828552,
+					"y": 345.955078,
+					"z": 106.598068
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -118.617188,
+					"y": -48.6405563,
+					"z": 11.5400391
+				},
+				"rotation": {
+					"x": 335.5976,
+					"y": 355.812469,
+					"z": 116.165329
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -106.556641,
+					"y": -69.58599,
+					"z": -16.8017578
+				},
+				"rotation": {
+					"x": 343.199829,
+					"y": 337.026184,
+					"z": 124.685707
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -111.31543,
+					"y": -51.3714371,
+					"z": -43.13379
+				},
+				"rotation": {
+					"x": 350.3346,
+					"y": 334.008026,
+					"z": 119.419907
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -97.1347656,
+					"y": -73.564476,
+					"z": -41.9277344
+				},
+				"rotation": {
+					"x": 346.6696,
+					"y": 330.179169,
+					"z": 124.508392
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -95.13281,
+					"y": -55.98031,
+					"z": -69.06055
+				},
+				"rotation": {
+					"x": 353.556244,
+					"y": 318.6259,
+					"z": 118.975624
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -112.957031,
+					"y": -30.32586,
+					"z": -57.79297
+				},
+				"rotation": {
+					"x": 338.895081,
+					"y": 325.731842,
+					"z": 105.238724
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -116.353516,
+					"y": 2.52197266,
+					"z": -59.6513672
+				},
+				"rotation": {
+					"x": 326.025818,
+					"y": 341.964355,
+					"z": 78.5030441
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -117.251953,
+					"y": 39.47882,
+					"z": -46.0957031
+				},
+				"rotation": {
+					"x": 333.56778,
+					"y": 350.91156,
+					"z": 69.12424
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -99.3916,
+					"y": 77.81592,
+					"z": -28.0644531
+				},
+				"rotation": {
+					"x": 339.881,
+					"y": 1.84537435,
+					"z": 49.07131
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -81.25,
+					"y": 99.11876,
+					"z": -5.9453125
+				},
+				"rotation": {
+					"x": 347.118683,
+					"y": 10.8836927,
+					"z": 31.6021
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -66.328125,
+					"y": 97.83327,
+					"z": -49.04492
+				},
+				"rotation": {
+					"x": 336.5749,
+					"y": 356.62326,
+					"z": 31.5632172
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -87.04199,
+					"y": 73.43651,
+					"z": -65.7880859
+				},
+				"rotation": {
+					"x": 330.016754,
+					"y": 355.982361,
+					"z": 40.0446854
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -96.77637,
+					"y": 45.4378967,
+					"z": -79.87207
+				},
+				"rotation": {
+					"x": 331.106079,
+					"y": 337.030457,
+					"z": 68.02537
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -104.724609,
+					"y": 20.15689,
+					"z": -80.28613
+				},
+				"rotation": {
+					"x": 341.035065,
+					"y": 322.779419,
+					"z": 90.38113
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -94.07715,
+					"y": -15.3173676,
+					"z": -88.31641
+				},
+				"rotation": {
+					"x": 328.203827,
+					"y": 312.995422,
+					"z": 95.16822
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -72.2373047,
+					"y": -50.9371567,
+					"z": -95.62207
+				},
+				"rotation": {
+					"x": 2.29792452,
+					"y": 309.8505,
+					"z": 118.883842
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -69.91113,
+					"y": -73.9040451,
+					"z": -80.75195
+				},
+				"rotation": {
+					"x": 3.55888367,
+					"y": 313.570221,
+					"z": 126.717018
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -32.77246,
+					"y": -57.3414078,
+					"z": -110.691406
+				},
+				"rotation": {
+					"x": 18.7748966,
+					"y": 302.725861,
+					"z": 125.08754
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -56.0332031,
+					"y": -14.8789291,
+					"z": -116.046875
+				},
+				"rotation": {
+					"x": 349.4457,
+					"y": 294.603455,
+					"z": 104.520866
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -72.13672,
+					"y": 27.5840912,
+					"z": -108.897461
+				},
+				"rotation": {
+					"x": 326.220367,
+					"y": 305.1574,
+					"z": 84.39895
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -71.31738,
+					"y": 53.37142,
+					"z": -99.73828
+				},
+				"rotation": {
+					"x": 315.470734,
+					"y": 337.531,
+					"z": 48.1287842
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -30.11621,
+					"y": 73.8924255,
+					"z": -101.364258
+				},
+				"rotation": {
+					"x": 308.8182,
+					"y": 346.4284,
+					"z": 21.4053249
+				},
+				"scale": 1.00000036
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -38.3027344,
+					"y": 43.8172,
+					"z": -120.112305
+				},
+				"rotation": {
+					"x": 296.129852,
+					"y": 318.2777,
+					"z": 51.9738159
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -48.76758,
+					"y": 16.2827911,
+					"z": -120.46875
+				},
+				"rotation": {
+					"x": 295.8719,
+					"y": 330.763916,
+					"z": 43.87645
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -30.8740234,
+					"y": 1.86412811,
+					"z": -128.5293
+				},
+				"rotation": {
+					"x": 321.482635,
+					"y": 279.035583,
+					"z": 96.89967
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -22.1240234,
+					"y": 26.9211426,
+					"z": -125.695313
+				},
+				"rotation": {
+					"x": 310.319153,
+					"y": 278.060028,
+					"z": 90.0
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -6.533203,
+					"y": 61.972168,
+					"z": -114.125
+				},
+				"rotation": {
+					"x": 301.5419,
+					"y": 357.6628,
+					"z": 0.8492135
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 8.294922,
+					"y": 39.96768,
+					"z": -122.488281
+				},
+				"rotation": {
+					"x": 286.8199,
+					"y": 23.13319,
+					"z": 330.1402
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 6.33105469,
+					"y": 7.056259,
+					"z": -130.475586
+				},
+				"rotation": {
+					"x": 280.141876,
+					"y": 41.1978,
+					"z": 312.3852
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -6.609375,
+					"y": -20.0173874,
+					"z": -128.120117
+				},
+				"rotation": {
+					"x": 322.441254,
+					"y": 264.4165,
+					"z": 106.248184
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 0.4921875,
+					"y": -56.42637,
+					"z": -116.855469
+				},
+				"rotation": {
+					"x": 53.6640739,
+					"y": 320.7295,
+					"z": 147.9446
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -35.1328125,
+					"y": -83.43777,
+					"z": -89.80078
+				},
+				"rotation": {
+					"x": 29.3519535,
+					"y": 327.934082,
+					"z": 147.546875
+				},
+				"scale": 0.999999762
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -57.60254,
+					"y": -94.7938156,
+					"z": -63.61035
+				},
+				"rotation": {
+					"x": 15.1719885,
+					"y": 333.264832,
+					"z": 146.5094
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -56.7402344,
+					"y": -14.736,
+					"z": 114.930664
+				},
+				"rotation": {
+					"x": 71.74416,
+					"y": 220.427063,
+					"z": 249.290237
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -36.8994141,
+					"y": 2.37752533,
+					"z": 124.269531
+				},
+				"rotation": {
+					"x": 76.73097,
+					"y": 34.3847847,
+					"z": 51.1551971
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -83.6875,
+					"y": -15.7164841,
+					"z": 96.0918
+				},
+				"rotation": {
+					"x": 63.75533,
+					"y": 213.817917,
+					"z": 253.322266
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -67.71777,
+					"y": -36.4681473,
+					"z": 104.264648
+				},
+				"rotation": {
+					"x": 71.75704,
+					"y": 193.482452,
+					"z": 224.217758
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -64.26953,
+					"y": -61.0574265,
+					"z": 94.16016
+				},
+				"rotation": {
+					"x": 53.87734,
+					"y": 165.726151,
+					"z": 197.182816
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -45.6796875,
+					"y": -48.527153,
+					"z": 111.407227
+				},
+				"rotation": {
+					"x": 63.9683762,
+					"y": 156.3531,
+					"z": 178.134277
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -46.18457,
+					"y": -74.7224655,
+					"z": 92.81055
+				},
+				"rotation": {
+					"x": 53.4462929,
+					"y": 156.357346,
+					"z": 180.457123
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -47.01172,
+					"y": -95.31402,
+					"z": 68.78906
+				},
+				"rotation": {
+					"x": 37.8220367,
+					"y": 152.675659,
+					"z": 179.775574
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -24.6914063,
+					"y": -92.5033646,
+					"z": 83.87109
+				},
+				"rotation": {
+					"x": 42.6449242,
+					"y": 155.875076,
+					"z": 173.933151
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -70.42383,
+					"y": -82.27459,
+					"z": 68.5498047
+				},
+				"rotation": {
+					"x": 41.7324371,
+					"y": 160.2101,
+					"z": 197.85733
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -81.90625,
+					"y": -92.60717,
+					"z": 34.3369141
+				},
+				"rotation": {
+					"x": 33.81718,
+					"y": 154.15593,
+					"z": 202.714783
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -56.8447266,
+					"y": -105.448112,
+					"z": 40.23242
+				},
+				"rotation": {
+					"x": 27.8294334,
+					"y": 161.93808,
+					"z": 203.206131
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -23.2353516,
+					"y": -60.3163376,
+					"z": 110.776367
+				},
+				"rotation": {
+					"x": 53.7407341,
+					"y": 146.8321,
+					"z": 159.613831
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 9.599609,
+					"y": -71.2613754,
+					"z": 104.680664
+				},
+				"rotation": {
+					"x": 46.1610031,
+					"y": 143.714554,
+					"z": 144.841
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 2.08007813,
+					"y": -30.981781,
+					"z": 124.753906
+				},
+				"rotation": {
+					"x": 60.31165,
+					"y": 106.751106,
+					"z": 109.333496
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 33.60742,
+					"y": -43.9869766,
+					"z": 114.444336
+				},
+				"rotation": {
+					"x": 47.8759,
+					"y": 129.6028,
+					"z": 119.71949
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -31.4667969,
+					"y": -22.630455,
+					"z": 123.192383
+				},
+				"rotation": {
+					"x": 79.15426,
+					"y": 114.578072,
+					"z": 130.361786
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 0.5449219,
+					"y": 13.2839432,
+					"z": 128.389648
+				},
+				"rotation": {
+					"x": 34.772644,
+					"y": 81.6112747,
+					"z": 75.50274
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 47.1142578,
+					"y": -16.3713226,
+					"z": 117.868164
+				},
+				"rotation": {
+					"x": 50.4195824,
+					"y": 127.501,
+					"z": 111.046829
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 14.6269531,
+					"y": -5.61579132,
+					"z": 128.7832
+				},
+				"rotation": {
+					"x": 51.2967873,
+					"y": 109.9967,
+					"z": 101.916534
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 22.09961,
+					"y": 37.2023,
+					"z": 120.464844
+				},
+				"rotation": {
+					"x": 30.6625423,
+					"y": 93.47947,
+					"z": 72.15846
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 48.5976563,
+					"y": 24.04393,
+					"z": 115.199219
+				},
+				"rotation": {
+					"x": 8.202782,
+					"y": 111.308029,
+					"z": 69.31054
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 39.45215,
+					"y": 46.21601,
+					"z": 112.136719
+				},
+				"rotation": {
+					"x": 25.9407711,
+					"y": 102.1295,
+					"z": 69.2299652
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 43.05078,
+					"y": 73.00133,
+					"z": 94.9043
+				},
+				"rotation": {
+					"x": 358.833374,
+					"y": 117.482231,
+					"z": 51.60766
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 4.794922,
+					"y": 61.8980865,
+					"z": 112.022461
+				},
+				"rotation": {
+					"x": 14.7778025,
+					"y": 86.06913,
+					"z": 61.6002541
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 2.70117188,
+					"y": 79.34944,
+					"z": 98.7373047
+				},
+				"rotation": {
+					"x": 341.688019,
+					"y": 108.43396,
+					"z": 46.7572975
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": -6.3671875,
+					"y": 99.30502,
+					"z": 78.39844
+				},
+				"rotation": {
+					"x": 329.344971,
+					"y": 148.020844,
+					"z": 13.5015306
+				},
+				"scale": 0.9999997
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 88.43262,
+					"y": 3.98080444,
+					"z": 91.0068359
+				},
+				"rotation": {
+					"x": 34.0863876,
+					"y": 135.963379,
+					"z": 90.84586
+				}
+			},
+			{
+				"path": "Comet_Body/Sector_CO/Sector_CometInterior/Props_CometInterior/Prefab_NOM_Dead_Suit (1)",
+				"position": {
+					"x": 69.92285,
+					"y": 50.84017,
+					"z": 91.95508
+				},
+				"rotation": {
+					"x": 21.9906387,
+					"y": 121.23658,
+					"z": 66.52637
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/ConversationPivot/Character_NOM_Solanum/Nomai_ANIM_SkyWatching_Idle",
+				"position": {
+					"x": 69.43262,
+					"y": -77.9555,
+					"z": 70.32617
+				},
+				"rotation": {
+					"x": 26.7591267,
+					"y": 164.6627,
+					"z": 138.706314
+				}
+			}
+		],
+		"dialogue": [
+			{
+				"position": {
+					"x": 69.43217,
+					"y": -78.3555054,
+					"z": 70.32651
+				},
+				"radius": 2.0,
+				"xmlFile": "planets/Dialogue/Alfonso.xml"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"Water": {
+		"size": 127.0,
+		"tint": {
+			"r": 400,
+			"g": 4,
+			"b": 4,
+			"a": 1
+		},
+		"curve": [
+			{
+				"value": 1.0
+			},
+			{
+				"time": 20.0,
+				"value": 0.9
+			}
+		]
+	}
+}

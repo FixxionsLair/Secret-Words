@@ -1,0 +1,103 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Surtr",
+	"Base": {
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 8.0,
+		"surfaceSize": 400.0
+	},
+	"canShowOnTitle": false,
+	"HeightMap": {
+		"heightMap": "planets/assets/Surtr_HeightMap.png",
+		"maxHeight": 400.0,
+		"minHeight": 350.0,
+		"textureMap": "planets/assets/Surtr_TextureMap.png"
+	},
+	"Lava": {
+		"size": 390.0,
+		"tint": {
+			"r": 200,
+			"a": 1
+		},
+		"curve": [
+			{
+				"value": 1.0
+			},
+			{
+				"time": 18.0,
+				"value": 0.9
+			}
+		]
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"isTidallyLocked": true,
+		"semiMajorAxis": 4500.0,
+		"trueAnomaly": 240.0
+	},
+	"Props": {
+		"details": [],
+		"nomaiText": [
+			{
+				"position": {
+					"x": -85.05,
+					"y": -253.83786,
+					"z": -283.002625
+				},
+				"rotation": {
+					"x": 336.181854,
+					"y": 277.7416,
+					"z": 119.809074
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/SW4.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			}
+		],
+		"volcanoes": [
+			{
+				"lavaTint": {
+					"r": 100,
+					"a": 1
+				},
+				"maxLaunchSpeed": 50.0,
+				"minLaunchSpeed": 40.0,
+				"position": {
+					"x": 50.0,
+					"z": 50.0
+				},
+				"scale": 1.0
+			},
+			{
+				"lavaTint": {
+					"r": 100,
+					"a": 1
+				},
+				"maxLaunchSpeed": 50.0,
+				"minLaunchSpeed": 40.0,
+				"position": {
+					"y": 50.0
+				},
+				"scale": 1.0
+			}
+		],
+		"singularities": [
+			{
+				"makeZeroGVolume": false,
+				"pairedSingularity": "Timber2",
+				"uniqueID": "Surtr",
+				"position": {
+					"x": -248.1084,
+					"y": -156.946289,
+					"z": -267.7802
+				},
+				"size": 2.0,
+				"type": "whiteHole"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

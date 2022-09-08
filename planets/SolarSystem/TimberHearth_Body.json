@@ -1,0 +1,289 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Bramble": {
+		"nodes": [
+			{
+				"position": {
+					"x": 41.4444237,
+					"y": -37.4050636,
+					"z": 184.203
+				},
+				"rotation": {
+					"x": 15.6640654,
+					"y": 268.815552,
+					"z": 252.978256
+				},
+				"scale": 0.05,
+				"linksTo": "EternalDoom",
+				"name": "TimberHearth",
+				"fogTint": {
+					"r": 14,
+					"g": 21,
+					"b": 103,
+					"a": 1
+				},
+				"lightTint": {
+					"r": 42,
+					"g": 63,
+					"b": 309,
+					"a": 1
+				}
+			}
+		]
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/AnglerFishExhibit/AnglerFishTankPivot/Beast_Anglerfish",
+				"position": {
+					"x": 12.9991808,
+					"y": -44.85034,
+					"z": 186.2401
+				},
+				"rotation": {
+					"x": 2.840432,
+					"y": 94.84247,
+					"z": 103.162552
+				},
+				"scale": 0.015
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+				"position": {
+					"x": 19.03458,
+					"y": -51.1547775,
+					"z": 182.9001
+				},
+				"rotation": {
+					"x": 287.2539,
+					"y": 340.095032,
+					"z": 205.05513
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A",
+				"position": {
+					"x": 19.0247078,
+					"y": -51.171257,
+					"z": 182.8969
+				},
+				"rotation": {
+					"x": 287.129761,
+					"y": 341.010529,
+					"z": 204.18042
+				},
+				"scale": 0.5
+			}
+		],
+		"dialogue": [
+			{
+				"position": {
+					"x": 13.0003786,
+					"y": -44.85035,
+					"z": 186.239883
+				},
+				"radius": 1.0,
+				"xmlFile": "planets/Dialogue/Fixxion.xml"
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": 19.0258255,
+					"y": -51.1712646,
+					"z": 183.897217
+				},
+				"rotation": {
+					"x": 287.129822,
+					"y": 341.010559,
+					"z": 204.8804
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/Winners.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			},
+			{
+				"position": {
+					"x": 47.8631935,
+					"y": 34.9983253,
+					"z": 95.46275
+				},
+				"rotation": {
+					"x": 80.05133,
+					"y": 265.7402,
+					"z": 280.81192
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/Hidden.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			}
+		],
+		"slideShows": [
+			{
+				"position": {
+					"x": 14.5165062,
+					"y": -46.71417,
+					"z": 187.86261
+				},
+				"rotation": {
+					"x": 1.0,
+					"y": -180.0,
+					"z": 1.0
+				},
+				"slides": [
+					{
+						"imagePath": "planets/assets/slides/NameJotunn.png"
+					},
+					{
+						"imagePath": "planets/assets/slides/NameJotunn1.png"
+					}
+				],
+				"type": "autoProjector"
+			},
+			{
+				"position": {
+					"x": 24.0232029,
+					"y": -41.7652168,
+					"z": 187.7755
+				},
+				"rotation": {
+					"x": 1.0,
+					"y": -180.0,
+					"z": 1.0
+				},
+				"slides": [
+					{
+						"imagePath": "planets/assets/slides/NameSurtr.png"
+					},
+					{
+						"imagePath": "planets/assets/slides/NameSurtr1.png"
+					}
+				],
+				"type": "autoProjector"
+			},
+			{
+				"position": {
+					"x": 14.4165688,
+					"y": -50.01412,
+					"z": 187.463058
+				},
+				"rotation": {
+					"x": 1.0,
+					"y": -180.0,
+					"z": 1.0
+				},
+				"slides": [
+					{
+						"imagePath": "planets/assets/slides/NameGaia.png"
+					},
+					{
+						"imagePath": "planets/assets/slides/NameGaia1.png"
+					}
+				],
+				"type": "autoProjector"
+			},
+			{
+				"position": {
+					"x": 27.2593975,
+					"y": -45.6966362,
+					"z": 186.8354
+				},
+				"rotation": {
+					"x": 1.0,
+					"y": -180.0,
+					"z": 1.0
+				},
+				"slides": [
+					{
+						"imagePath": "planets/assets/slides/NameMidas.png"
+					},
+					{
+						"imagePath": "planets/assets/slides/NameMidas1.png"
+					}
+				],
+				"type": "autoProjector"
+			},
+			{
+				"position": {
+					"x": 37.8004951,
+					"y": -40.58409,
+					"z": 185.9582
+				},
+				"rotation": {
+					"x": 110.0,
+					"y": -45.0,
+					"z": -55.0
+				},
+				"slides": [
+					{
+						"imagePath": "planets/assets/slides/NameTheLair.png"
+					},
+					{
+						"imagePath": "planets/assets/slides/NameTheLair1.png"
+					}
+				],
+				"type": "autoProjector"
+			}
+		],
+		"singularities": [
+			{
+				"pairedSingularity": "Jotunn",
+				"uniqueID": "Timber",
+				"position": {
+					"x": 11.94428,
+					"y": -46.91292,
+					"z": 184.629791
+				},
+				"size": 2.0
+			},
+			{
+				"pairedSingularity": "Gaia",
+				"uniqueID": "Timber1",
+				"position": {
+					"x": 11.94428,
+					"y": -50.1026955,
+					"z": 183.713058
+				},
+				"size": 2.0
+			},
+			{
+				"pairedSingularity": "Surtr",
+				"uniqueID": "Timber2",
+				"position": {
+					"x": 23.9860554,
+					"y": -39.4254036,
+					"z": 185.232956
+				},
+				"size": 2.0
+			},
+			{
+				"pairedSingularity": "Midas",
+				"uniqueID": "Timber3",
+				"position": {
+					"x": 27.3593235,
+					"y": -48.69659,
+					"z": 182.434647
+				},
+				"size": 2.0
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"Spawn": {
+		"playerSpawnPoint": {
+			"x": 21.3040123,
+			"y": -45.3934135,
+			"z": 184.166428
+		},
+		"startWithSuit": true
+	}
+}

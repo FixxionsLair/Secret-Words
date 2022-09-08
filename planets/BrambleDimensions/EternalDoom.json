@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "EternalDoom",
+	"Base": {
+		"gravityFallOff": "linear",
+		"showMinimap": false
+	},
+	"Bramble": {
+		"dimension": {
+			"fogTint": {
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"fogDensity": 4.0,
+			"linksTo": "TheLair",
+			"radius": 10.0
+		}
+	},
+	"canShowOnTitle": false,
+	"Orbit": {
+		"staticPosition": {
+			"x": -30000.0,
+			"y": -30000.0,
+			"z": -30000.0
+		},
+		"isStatic": true
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/AnglerFishExhibit/AnglerFishTankPivot/Beast_Anglerfish",
+				"position": {},
+				"rotation": {},
+				"scale": 0.02
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

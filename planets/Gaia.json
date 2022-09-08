@@ -1,0 +1,1542 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Gaia",
+	"Atmosphere": {
+		"hasTrees": true
+	},
+	"Base": {
+		"ambientLight": 1.4,
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 8.0,
+		"surfaceSize": 600.0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/Gaia_HeightMap.png",
+		"maxHeight": 590.0,
+		"minHeight": 560.0,
+		"textureMap": "planets/assets/Gaia_TextureMap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"isTidallyLocked": true,
+		"semiMajorAxis": 6500.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 128.19574,
+					"y": -244.960159,
+					"z": -508.5131
+				},
+				"rotation": {
+					"x": 30.4415245,
+					"y": 62.1718,
+					"z": 249.336792
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 209.831024,
+					"y": -209.604416,
+					"z": -491.1624
+				},
+				"rotation": {
+					"x": 74.05256,
+					"y": 333.432343,
+					"z": 179.046234
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 277.670441,
+					"y": -242.08075,
+					"z": -441.904755
+				},
+				"rotation": {
+					"x": 31.9420662,
+					"y": 247.367584,
+					"z": 110.686119
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 281.135437,
+					"y": -318.31723,
+					"z": -385.925
+				},
+				"rotation": {
+					"x": 347.092682,
+					"y": 225.359955,
+					"z": 123.1009
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 223.22345,
+					"y": -403.338837,
+					"z": -340.916962
+				},
+				"rotation": {
+					"x": 337.110016,
+					"y": 184.547668,
+					"z": 163.371384
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 155.193176,
+					"y": -381.824768,
+					"z": -398.0657
+				},
+				"rotation": {
+					"x": 317.490662,
+					"y": 151.308838,
+					"z": 196.205
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 93.42308,
+					"y": -333.9886,
+					"z": -457.1593
+				},
+				"rotation": {
+					"x": 335.949829,
+					"y": 92.8222961,
+					"z": 235.081787
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 374.674744,
+					"y": -323.327728,
+					"z": -289.266174
+				},
+				"rotation": {
+					"x": 357.084839,
+					"y": 214.91246,
+					"z": 114.9341
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -28.6076565,
+					"y": -320.57312,
+					"z": -475.3425
+				},
+				"rotation": {
+					"x": 357.499146,
+					"y": 95.0173645,
+					"z": 235.156479
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 7.467432,
+					"y": -241.767059,
+					"z": -521.4854
+				},
+				"rotation": {
+					"x": 17.00667,
+					"y": 80.92749,
+					"z": 246.388977
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 20.0846462,
+					"y": -160.7531,
+					"z": -550.8677
+				},
+				"rotation": {
+					"x": 35.9497147,
+					"y": 73.37141,
+					"z": 253.496323
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 50.26685,
+					"y": -406.8546,
+					"z": -402.48877
+				},
+				"rotation": {
+					"x": 324.250336,
+					"y": 113.867249,
+					"z": 226.6124
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -53.763813,
+					"y": -426.1072,
+					"z": -379.880157
+				},
+				"rotation": {
+					"x": 344.42865,
+					"y": 119.960175,
+					"z": 219.853622
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 13.07775,
+					"y": -500.4463,
+					"z": -271.1524
+				},
+				"rotation": {
+					"x": 334.376648,
+					"y": 140.801071,
+					"z": 194.92421
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 91.84736,
+					"y": -485.117554,
+					"z": -289.671753
+				},
+				"rotation": {
+					"x": 333.2799,
+					"y": 152.043335,
+					"z": 187.249771
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -9.237087,
+					"y": -558.6541,
+					"z": -136.342957
+				},
+				"rotation": {
+					"x": 7.727871,
+					"y": 155.820953,
+					"z": 189.521408
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 2.11915779,
+					"y": -568.011169,
+					"z": -28.9718628
+				},
+				"rotation": {
+					"x": 4.272843,
+					"y": 164.462585,
+					"z": 192.73468
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -15.0078955,
+					"y": -560.0349,
+					"z": 112.405151
+				},
+				"rotation": {
+					"x": 2.85655737,
+					"y": 158.663025,
+					"z": 177.564789
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -96.56623,
+					"y": -556.1496,
+					"z": 95.10199
+				},
+				"rotation": {
+					"x": 14.1321478,
+					"y": 161.038055,
+					"z": 193.070374
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -115.545242,
+					"y": -558.19165,
+					"z": 0.0802001953
+				},
+				"rotation": {
+					"x": 19.2574978,
+					"y": 158.539017,
+					"z": 195.525848
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -180.525848,
+					"y": -541.2957,
+					"z": -57.5008545
+				},
+				"rotation": {
+					"x": 1.59814966,
+					"y": 143.977173,
+					"z": 193.819244
+				},
+				"scale": 0.999999642
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -234.66449,
+					"y": -502.316772,
+					"z": -142.153564
+				},
+				"rotation": {
+					"x": 4.31075144,
+					"y": 144.311554,
+					"z": 212.90181
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -174.6668,
+					"y": -487.9941,
+					"z": -236.587524
+				},
+				"rotation": {
+					"x": 345.993561,
+					"y": 127.872757,
+					"z": 208.700348
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -183.980209,
+					"y": -401.690857,
+					"z": -366.4505
+				},
+				"rotation": {
+					"x": 359.821777,
+					"y": 123.086678,
+					"z": 228.540543
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -330.472839,
+					"y": -277.075836,
+					"z": -375.9698
+				},
+				"rotation": {
+					"x": 14.6344709,
+					"y": 113.312645,
+					"z": 226.919662
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -401.680145,
+					"y": -152.866028,
+					"z": -381.150757
+				},
+				"rotation": {
+					"x": 23.1380348,
+					"y": 127.519165,
+					"z": 254.856445
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -301.881958,
+					"y": -149.608765,
+					"z": -461.603882
+				},
+				"rotation": {
+					"x": 24.5480061,
+					"y": 117.655258,
+					"z": 256.0812
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -296.039154,
+					"y": -242.918579,
+					"z": -426.8298
+				},
+				"rotation": {
+					"x": 16.3559513,
+					"y": 114.638893,
+					"z": 243.3823
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -426.244476,
+					"y": -35.4501953,
+					"z": -376.807861
+				},
+				"rotation": {
+					"x": 22.4068146,
+					"y": 140.715485,
+					"z": 277.8353
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -376.484558,
+					"y": -32.6257324,
+					"z": -423.029236
+				},
+				"rotation": {
+					"x": 24.9752731,
+					"y": 133.24588,
+					"z": 277.019684
+				},
+				"scale": 0.999999642
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -489.987854,
+					"y": -119.20697,
+					"z": -267.489
+				},
+				"rotation": {
+					"x": 24.80142,
+					"y": 146.065857,
+					"z": 260.768433
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -531.781,
+					"y": -132.343384,
+					"z": -165.389679
+				},
+				"rotation": {
+					"x": 22.6176662,
+					"y": 160.0428,
+					"z": 264.253357
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -563.7179,
+					"y": -51.670105,
+					"z": -89.2345657
+				},
+				"rotation": {
+					"x": 44.1530037,
+					"y": 148.539917,
+					"z": 234.020782
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -554.871643,
+					"y": -1.5135498,
+					"z": -135.0975
+				},
+				"rotation": {
+					"x": 21.0526543,
+					"y": 168.568192,
+					"z": 278.415649
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -562.3722,
+					"y": 78.09277,
+					"z": -72.97039
+				},
+				"rotation": {
+					"x": 36.2744942,
+					"y": 174.4405,
+					"z": 271.784
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -556.979065,
+					"y": 108.760132,
+					"z": 61.1820679
+				},
+				"rotation": {
+					"x": 9.677989,
+					"y": 186.894379,
+					"z": 291.533051
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -542.8024,
+					"y": 178.801086,
+					"z": 29.4270935
+				},
+				"rotation": {
+					"x": 31.8330154,
+					"y": 205.254135,
+					"z": 290.4931
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -508.866821,
+					"y": 243.3122,
+					"z": 81.27228
+				},
+				"rotation": {
+					"x": 358.461517,
+					"y": 187.804916,
+					"z": 305.163544
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -490.750519,
+					"y": 219.159424,
+					"z": 194.865479
+				},
+				"rotation": {
+					"x": 5.42117739,
+					"y": 207.88353,
+					"z": 297.742432
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -411.153625,
+					"y": 335.0357,
+					"z": 218.453
+				},
+				"rotation": {
+					"x": 16.20583,
+					"y": 214.533218,
+					"z": 301.258331
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -443.6143,
+					"y": 216.032135,
+					"z": 289.9156
+				},
+				"rotation": {
+					"x": 19.3800755,
+					"y": 210.1832,
+					"z": 291.497131
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -378.274,
+					"y": 277.77356,
+					"z": 322.905762
+				},
+				"rotation": {
+					"x": 350.074921,
+					"y": 206.397934,
+					"z": 306.3394
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -301.2502,
+					"y": 253.5962,
+					"z": 414.141663
+				},
+				"rotation": {
+					"x": 54.5045,
+					"y": 263.509338,
+					"z": 304.4408
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -374.501373,
+					"y": 156.509064,
+					"z": 403.10733
+				},
+				"rotation": {
+					"x": 1.38948715,
+					"y": 222.211731,
+					"z": 293.607819
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -284.885468,
+					"y": 340.2286,
+					"z": 379.3577
+				},
+				"rotation": {
+					"x": 49.35281,
+					"y": 269.536865,
+					"z": 312.264618
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -341.307434,
+					"y": 394.097748,
+					"z": 249.563965
+				},
+				"rotation": {
+					"x": 328.152863,
+					"y": 181.653534,
+					"z": 329.5351
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -212.281158,
+					"y": 410.4687,
+					"z": 349.2832
+				},
+				"rotation": {
+					"x": 325.3755,
+					"y": 174.749435,
+					"z": 342.539276
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -161.8775,
+					"y": 347.411835,
+					"z": 435.4501
+				},
+				"rotation": {
+					"x": 65.39207,
+					"y": 21.65059,
+					"z": 36.30365
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -176.322052,
+					"y": 240.045349,
+					"z": 489.047516
+				},
+				"rotation": {
+					"x": 47.69373,
+					"y": 40.252964,
+					"z": 51.501606
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -196.078033,
+					"y": 162.926178,
+					"z": 512.4524
+				},
+				"rotation": {
+					"x": 12.9873447,
+					"y": 251.016479,
+					"z": 293.302551
+				},
+				"scale": 0.999999762
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -265.192749,
+					"y": 40.7534943,
+					"z": 507.5551
+				},
+				"rotation": {
+					"x": 43.41371,
+					"y": 56.78592,
+					"z": 72.2974
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -154.552124,
+					"y": 8.419067,
+					"z": 552.132446
+				},
+				"rotation": {
+					"x": 63.087574,
+					"y": 69.72521,
+					"z": 81.78399
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -146.7986,
+					"y": 76.44333,
+					"z": 543.6646
+				},
+				"rotation": {
+					"x": 71.92697,
+					"y": 46.7411728,
+					"z": 61.21924
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -94.9122543,
+					"y": 144.335709,
+					"z": 542.5039
+				},
+				"rotation": {
+					"x": 67.0138,
+					"y": 72.08658,
+					"z": 79.235466
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -42.81399,
+					"y": 34.4629364,
+					"z": 567.0563
+				},
+				"rotation": {
+					"x": 50.63754,
+					"y": 81.28901,
+					"z": 82.27109
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -24.43016,
+					"y": -107.704948,
+					"z": 560.7588
+				},
+				"rotation": {
+					"x": 52.59058,
+					"y": 91.99978,
+					"z": 95.249
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -104.31469,
+					"y": -120.646111,
+					"z": 551.4799
+				},
+				"rotation": {
+					"x": 61.3009,
+					"y": 89.90963,
+					"z": 100.121651
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -96.073,
+					"y": -224.5538,
+					"z": 522.212158
+				},
+				"rotation": {
+					"x": 66.88578,
+					"y": 142.029144,
+					"z": 156.254379
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -200.224411,
+					"y": -242.412582,
+					"z": 477.67984
+				},
+				"rotation": {
+					"x": 70.37656,
+					"y": 187.870117,
+					"z": 212.7376
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -333.385437,
+					"y": -218.29187,
+					"z": 413.025146
+				},
+				"rotation": {
+					"x": 54.6440277,
+					"y": 133.5123,
+					"z": 160.462509
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -281.518,
+					"y": -311.345947,
+					"z": 384.780579
+				},
+				"rotation": {
+					"x": 37.60678,
+					"y": 161.8097,
+					"z": 197.474777
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -343.076324,
+					"y": -357.924133,
+					"z": 286.347046
+				},
+				"rotation": {
+					"x": 48.3304863,
+					"y": 175.411636,
+					"z": 216.887482
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -482.065338,
+					"y": -173.4155,
+					"z": 254.434448
+				},
+				"rotation": {
+					"x": 40.0598869,
+					"y": 155.312973,
+					"z": 211.61763
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -523.0173,
+					"y": -205.8172,
+					"z": 91.53279
+				},
+				"rotation": {
+					"x": 43.3498421,
+					"y": 152.372437,
+					"z": 216.87056
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -396.0429,
+					"y": -396.899963,
+					"z": 122.072388
+				},
+				"rotation": {
+					"x": 31.42885,
+					"y": 167.434036,
+					"z": 224.587723
+				},
+				"scale": 1.00000048
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -398.381683,
+					"y": -412.221,
+					"z": 37.28357
+				},
+				"rotation": {
+					"x": 26.2989788,
+					"y": 161.878525,
+					"z": 225.43335
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -278.879761,
+					"y": -412.3075,
+					"z": 285.767242
+				},
+				"rotation": {
+					"x": 44.3496056,
+					"y": 149.862762,
+					"z": 182.792755
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -149.944626,
+					"y": -449.144165,
+					"z": 322.410828
+				},
+				"rotation": {
+					"x": 35.12895,
+					"y": 162.500626,
+					"z": 188.57962
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -96.30313,
+					"y": -371.996338,
+					"z": 422.394653
+				},
+				"rotation": {
+					"x": 52.4912148,
+					"y": 147.99762,
+					"z": 163.943192
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 151.350342,
+					"y": -397.7887,
+					"z": 384.9867
+				},
+				"rotation": {
+					"x": 37.5547867,
+					"y": 162.273376,
+					"z": 159.84903
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 228.115448,
+					"y": -435.0221,
+					"z": 302.130585
+				},
+				"rotation": {
+					"x": 31.6552563,
+					"y": 173.925964,
+					"z": 167.843491
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 296.8476,
+					"y": -441.966553,
+					"z": 218.168365
+				},
+				"rotation": {
+					"x": 21.08166,
+					"y": 168.177475,
+					"z": 147.611557
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 395.044037,
+					"y": -402.219666,
+					"z": 112.839783
+				},
+				"rotation": {
+					"x": 13.2008505,
+					"y": 178.673737,
+					"z": 138.631226
+				},
+				"scale": 1.00000036
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 504.052246,
+					"y": -252.30835,
+					"z": 115.703125
+				},
+				"rotation": {
+					"x": 17.4356861,
+					"y": 171.423035,
+					"z": 107.435158
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 420.63736,
+					"y": -313.324341,
+					"z": 236.227661
+				},
+				"rotation": {
+					"x": 26.4370785,
+					"y": 162.1561,
+					"z": 123.909645
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 425.0298,
+					"y": -360.8421,
+					"z": 171.674744
+				},
+				"rotation": {
+					"x": 6.26238155,
+					"y": 175.063751,
+					"z": 116.032173
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 469.709076,
+					"y": -327.637146,
+					"z": 39.675415
+				},
+				"rotation": {
+					"x": 17.73993,
+					"y": 191.866074,
+					"z": 141.227982
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 512.1225,
+					"y": -261.607422,
+					"z": -12.4691162
+				},
+				"rotation": {
+					"x": 13.6088076,
+					"y": 189.524643,
+					"z": 110.851181
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 313.679016,
+					"y": -473.959747,
+					"z": -80.69818
+				},
+				"rotation": {
+					"x": 347.56424,
+					"y": 185.615585,
+					"z": 140.383636
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 168.030518,
+					"y": -547.6015,
+					"z": 44.7154541
+				},
+				"rotation": {
+					"x": 355.882538,
+					"y": 169.192368,
+					"z": 163.0432
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 202.198822,
+					"y": -534.420166,
+					"z": -81.8186646
+				},
+				"rotation": {
+					"x": 353.080475,
+					"y": 171.438126,
+					"z": 162.447739
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 354.770142,
+					"y": -424.954681,
+					"z": -152.92868
+				},
+				"rotation": {
+					"x": 352.9396,
+					"y": 196.070847,
+					"z": 144.506042
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 206.132416,
+					"y": -59.7124634,
+					"z": -535.2711
+				},
+				"rotation": {
+					"x": 84.29855,
+					"y": 36.04578,
+					"z": 239.951843
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -62.45283,
+					"y": 292.4928,
+					"z": -493.022827
+				},
+				"rotation": {
+					"x": 49.27579,
+					"y": 141.703308,
+					"z": 321.2171
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 29.49661,
+					"y": 287.552277,
+					"z": -496.071228
+				},
+				"rotation": {
+					"x": 69.1821,
+					"y": 122.664719,
+					"z": 307.481537
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 43.7685432,
+					"y": 386.175476,
+					"z": -423.784973
+				},
+				"rotation": {
+					"x": 60.79124,
+					"y": 155.084534,
+					"z": 333.287262
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -47.5231323,
+					"y": 483.6975,
+					"z": -310.1743
+				},
+				"rotation": {
+					"x": 41.0554237,
+					"y": 152.1674,
+					"z": 341.03537
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -121.605789,
+					"y": 482.012665,
+					"z": -291.582275
+				},
+				"rotation": {
+					"x": 35.3940277,
+					"y": 158.1065,
+					"z": 333.717651
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -194.590027,
+					"y": 499.2994,
+					"z": -209.184082
+				},
+				"rotation": {
+					"x": 17.9361038,
+					"y": 161.670364,
+					"z": 335.4765
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -207.902573,
+					"y": 530.308838,
+					"z": -84.60431
+				},
+				"rotation": {
+					"x": 2.26630259,
+					"y": 171.569992,
+					"z": 336.757477
+				},
+				"scale": 1.00000024
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -276.445221,
+					"y": 498.651947,
+					"z": -70.6084
+				},
+				"rotation": {
+					"x": 13.8038607,
+					"y": 176.662018,
+					"z": 325.9569
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -15.9112024,
+					"y": 543.3685,
+					"z": -180.3855
+				},
+				"rotation": {
+					"x": 34.653717,
+					"y": 188.084427,
+					"z": 335.2201
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 13.1567879,
+					"y": 570.0768,
+					"z": -76.59924
+				},
+				"rotation": {
+					"x": 5.19680548,
+					"y": 173.789932,
+					"z": 350.276947
+				},
+				"scale": 1.00000036
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": -12.9122658,
+					"y": 571.5242,
+					"z": 41.4450073
+				},
+				"rotation": {
+					"x": 332.820343,
+					"y": 148.275375,
+					"z": 4.95489359
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 134.5066,
+					"y": 554.3003,
+					"z": 82.93335
+				},
+				"rotation": {
+					"x": 3.0761137,
+					"y": 141.656281,
+					"z": 19.5863762
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 99.78872,
+					"y": 562.095032,
+					"z": -85.3971558
+				},
+				"rotation": {
+					"x": 8.691506,
+					"y": 149.452377,
+					"z": 7.92442656
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 160.570633,
+					"y": 504.663574,
+					"z": -221.7287
+				},
+				"rotation": {
+					"x": 21.827877,
+					"y": 165.520584,
+					"z": 2.28676939
+				},
+				"scale": 1.00000036
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 139.717575,
+					"y": 446.054962,
+					"z": -335.939423
+				},
+				"rotation": {
+					"x": 26.6319561,
+					"y": 152.781723,
+					"z": 0.7894781
+				},
+				"scale": 0.9999997
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 245.4861,
+					"y": 382.600952,
+					"z": -352.188263
+				},
+				"rotation": {
+					"x": 41.88918,
+					"y": 148.090668,
+					"z": 12.5219326
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 214.5048,
+					"y": 528.2619,
+					"z": -87.31036
+				},
+				"rotation": {
+					"x": 32.7494926,
+					"y": 162.073257,
+					"z": 15.0050631
+				},
+				"scale": 0.99999994
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 304.534363,
+					"y": 468.358948,
+					"z": -146.472717
+				},
+				"rotation": {
+					"x": 27.01201,
+					"y": 152.646881,
+					"z": 23.02092
+				}
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 302.7531,
+					"y": 486.9977,
+					"z": 6.80328369
+				},
+				"rotation": {
+					"x": 24.9196415,
+					"y": 149.484833,
+					"z": 30.7514725
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 91.50116,
+					"y": 488.34494,
+					"z": 284.515961
+				},
+				"rotation": {
+					"x": 347.4093,
+					"y": 139.744827,
+					"z": 24.19686
+				},
+				"scale": 0.999999762
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 92.62288,
+					"y": 317.311829,
+					"z": 473.59552
+				},
+				"rotation": {
+					"x": 29.66136,
+					"y": 87.20121,
+					"z": 62.1073
+				},
+				"scale": 0.9999998
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 112.3827,
+					"y": -108.49469,
+					"z": 553.2334
+				},
+				"rotation": {
+					"x": 38.3974342,
+					"y": 97.59713,
+					"z": 89.62906
+				},
+				"scale": 1.00000012
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 209.012787,
+					"y": -199.57811,
+					"z": 500.327423
+				},
+				"rotation": {
+					"x": 40.92358,
+					"y": 144.870529,
+					"z": 128.159821
+				},
+				"scale": 0.9999999
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 296.4715,
+					"y": -87.35446,
+					"z": 487.185059
+				},
+				"rotation": {
+					"x": 25.0136585,
+					"y": 119.875191,
+					"z": 88.73046
+				},
+				"scale": 0.99999994
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": -61.7877541,
+					"y": 294.060364,
+					"z": -492.183838
+				},
+				"rotation": {
+					"x": 59.42802,
+					"y": 187.508392,
+					"z": 359.250641
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/SW2.xml",
+				"rename": "Prefab_NOM_Recorder_TH"
+			}
+		],
+		"singularities": [
+			{
+				"makeZeroGVolume": false,
+				"pairedSingularity": "Timber1",
+				"uniqueID": "Gaia",
+				"position": {
+					"x": 198.342712,
+					"y": -290.052734,
+					"z": -468.256348
+				},
+				"size": 2.0,
+				"type": "whiteHole"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"Water": {
+		"size": 575.0,
+		"tint": {
+			"r": 1,
+			"g": 249,
+			"b": 239,
+			"a": 1
+		},
+		"curve": [
+			{
+				"value": 1.0
+			},
+			{
+				"time": 18.0,
+				"value": 1.05
+			}
+		]
+	}
+}

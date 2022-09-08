@@ -1,0 +1,128 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+	<NameField>Fixxion</NameField>
+
+	<DialogueNode>
+		<Name></Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>Welcome to my Assortment Of planets, I hope you enjoy finding it's secrets!</Page>
+			<Page>You can use the Black Holes on the floor to warp wherever you want to go.</Page>
+			<Page>Theres a signal on the in front of each of them indicating which planet is linked to that Black Hole.</Page>
+			<Page>Now...What planet would you want to explore first?</Page>
+		</Dialogue>
+
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text><![CDATA[<b>Jötunn</b>]]></Text>
+				<DialogueTarget>1</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text><![CDATA[<b>Gaia</b>]]></Text>
+				<DialogueTarget>7</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text><![CDATA[<b>Midas</b>]]></Text>
+				<DialogueTarget>2</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text><![CDATA[<b>Surtr</b>]]></Text>
+				<DialogueTarget>8</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text><![CDATA[<b>The Lair</b>]]></Text>
+				<DialogueTarget>3</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>Who the F*** are you?</Text>
+				<DialogueTarget>6</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>1</Name>
+		<Dialogue>
+			<Page>It's always a good idea to start from below.</Page>
+			<Page>Jötunn is a really cold planet, it's kinda hard to live in and it's so dark but </Page>
+			<Page>There lives Gin, a good friend of mine, he likes living there i don't know why...</Page>
+			<Page>Enter in the black hole on my left when you feel ready and it'll warp you there.</Page>
+			<Page>Good Luck with it!</Page>
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>2</Name>
+		<Dialogue>
+			<Page>Midas is a beatutiful planet filled with molten gold.</Page>
+			<Page>(It's actually golden tinted water buti shouldn't be telling you that...)</Page>
+			<Page>Now...Good Luck! You sure will need some, this one is a little scarier than Gaia.</Page>
+		</Dialogue>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>8</Name>
+		<Dialogue>
+			<Page>Uhh, this is getting complicated, Surtr is not a great planet to visit as it's pretty deadly.</Page>
+		    <Page>It's suffocating in there, the opposite of <![CDATA[<b>"Jötunn"</b>]]>, be carefull with the lava though.</Page>
+			<Page>I'm linked to a Mnemonic statue too so seeing you wake up here again and again it's making me starting to like you UwU.</Page>
+		    <Page>Ready? Then use the Black Hole next to the campfire and you'll get there in no time.</Page>
+		</Dialogue>
+	</DialogueNode>
+		
+	<DialogueNode>
+		<Name>7</Name>
+		<Dialogue>
+			<Page>Have you already explored <![CDATA[<b>"Jötunn"</b>]]>?</Page>
+		    <Page>Well, I actually  don't care... Gaia is a nice place, really pretty, full of nature and beauty.</Page>
+		    <Page>Without further ado, enjoy your stay.</Page>
+			<Page>Feel free to use the black hole next to Jötunn's one.</Page>
+		</Dialogue>
+	</DialogueNode>
+		
+	<DialogueNode>
+		<Name>3</Name>
+		<Dialogue>
+			<Page>OHHHHH Really? Do you want to go to <![CDATA[<b>"The Lair"</b>]]>?</Page>
+		</Dialogue>
+		
+
+	 <DialogueOptionsList>
+		<DialogueOption>
+			<Text>Huh...Not really...</Text>
+			<DialogueTarget>4</DialogueTarget>
+		</DialogueOption>
+		<DialogueOption>
+			<Text>Don't underestimate me, I'll make it!</Text>
+			<DialogueTarget>5</DialogueTarget>
+		</DialogueOption>
+	 </DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>6</Name>
+		<Dialogue>
+			<Page>First of all, don't talk to me that way...</Page>
+			<Page>But... Hi, I'm the mods creator spiritual representation in Outer Wilds.</Page>
+			<Page>His name is Fixxion, you can contact him through many different ways.</Page>
+			<Page>You can always do it from discords official Outer Wilds modding server to tell him any suggestions you have, he sure will listen.</Page>
+			<Page>Though he is mainly on Youtube, on a channel called: <![CDATA[<b>"Fixxion's Lair"</b>]]> where he does spanish videogame content. Especially Outer Wilds content.</Page>
+			<Page>So make sure to check it out if you are interested!</Page>
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>4</Name>
+		<Dialogue>
+			<Page>Wise choice, talk to me again if you want to try the other planets.</Page>
+		</Dialogue>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>5</Name>
+		<Dialogue>
+			<Page>HAHAHAHA, I like your spirit, Just make sure you dont... Well... you will find out by yourself.</Page>
+			<Page>See ya! Or not, just try not to make a lot of noise...</Page>
+		</Dialogue>
+	</DialogueNode>
+	
+</DialogueTree>
