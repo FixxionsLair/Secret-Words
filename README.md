@@ -2,8 +2,6 @@
 
 ![Secret Words Thumbnail]()
 
-Implements unused/removed signals and Signalscope frequencies using [New Horizons](https://github.com/xen-42/outer-wilds-new-horizons).
-
 The custom planets are:
 - Jötunn: A the biggest and coldest planet where Ginzarel lives.
 - Gaia: A beautyful planet full of water and nature.
