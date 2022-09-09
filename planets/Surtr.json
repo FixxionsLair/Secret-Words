@@ -11,8 +11,7 @@
 	"HeightMap": {
 		"heightMap": "planets/assets/Surtr_HeightMap.png",
 		"maxHeight": 400.0,
-		"minHeight": 350.0,
-		"textureMap": "planets/assets/Surtr_TextureMap.png"
+		"minHeight": 350.0
 	},
 	"Lava": {
 		"size": 390.0,

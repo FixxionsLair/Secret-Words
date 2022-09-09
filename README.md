@@ -8,7 +8,7 @@ No Archeologist's yet!
 Meet 3 different Charachters scattered around the Solar System! Fixxion, Ginzarel and Alfonso!
 
 The custom planets are:
-- JÃ¶tunn: A the biggest and coldest planet where Ginzarel lives.
+- Jötunn: A the biggest and coldest planet where Ginzarel lives.
 - Gaia: A beautiful planet full of water and nature.
 - Midas: Dark planet full of molten gold.
 - Surtr: Hottest planet, covered in lava!

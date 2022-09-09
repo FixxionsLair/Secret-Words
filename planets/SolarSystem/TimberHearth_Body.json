@@ -41,42 +41,42 @@
 			{
 				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/AnglerFishExhibit/AnglerFishTankPivot/Beast_Anglerfish",
 				"position": {
-					"x": 12.9991808,
+					"x": 12.9992952,
 					"y": -44.85034,
-					"z": 186.2401
+					"z": 186.240036
 				},
 				"rotation": {
-					"x": 2.840432,
-					"y": 94.84247,
-					"z": 103.162552
+					"x": 2.84043026,
+					"y": 94.84246,
+					"z": 103.162567
 				},
 				"scale": 0.015
 			},
 			{
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
 				"position": {
-					"x": 19.03458,
-					"y": -51.1547775,
-					"z": 182.9001
+					"x": 19.0344353,
+					"y": -51.1547852,
+					"z": 182.900085
 				},
 				"rotation": {
 					"x": 287.2539,
-					"y": 340.095032,
-					"z": 205.05513
+					"y": 340.095062,
+					"z": 205.055115
 				},
 				"scale": 0.99999994
 			},
 			{
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A",
 				"position": {
-					"x": 19.0247078,
-					"y": -51.171257,
-					"z": 182.8969
+					"x": 19.0258446,
+					"y": -51.1712646,
+					"z": 182.897583
 				},
 				"rotation": {
-					"x": 287.129761,
-					"y": 341.010529,
-					"z": 204.18042
+					"x": 287.129852,
+					"y": 341.010559,
+					"z": 204.180389
 				},
 				"scale": 0.5
 			}
@@ -95,14 +95,14 @@
 		"nomaiText": [
 			{
 				"position": {
-					"x": 19.0258255,
-					"y": -51.1712646,
-					"z": 183.897217
+					"x": 19.2613869,
+					"y": -51.5803528,
+					"z": 186.126285
 				},
 				"rotation": {
-					"x": 287.129822,
-					"y": 341.010559,
-					"z": 204.8804
+					"x": 291.4464,
+					"y": 294.907471,
+					"z": 260.485718
 				},
 				"type": "recorder",
 				"location": "unspecified",
@@ -111,14 +111,14 @@
 			},
 			{
 				"position": {
-					"x": 47.8631935,
+					"x": 47.86324,
 					"y": 34.9983253,
-					"z": 95.46275
+					"z": 95.46314
 				},
 				"rotation": {
-					"x": 80.05133,
-					"y": 265.7402,
-					"z": 280.81192
+					"x": 80.0514,
+					"y": 265.740234,
+					"z": 280.811951
 				},
 				"type": "recorder",
 				"location": "unspecified",

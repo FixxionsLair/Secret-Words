@@ -5,21 +5,21 @@
 		<Name></Name>
 		<EntryCondition>DEFAULT</EntryCondition>
 		<Dialogue>
-			<Page>Hello, my name is Ginzarel. Welcome to <![CDATA[<b>Jötunn</b>]]> the biggest and with the lowest temperature planet in this Solar System.</Page>
-			<Page>I imagine you have talked to my friend Fixxion, he is ugly as a sin, but hes very kind on the other hand. He probably haven't told you about the <![CDATA[<b>Secret Words</b>]]></Page>
-			<Page>The <![CDATA[<b>Secret Words</b>]]> are a group of codes hidden somewhere in this solar system. There is one code in each planet!</Page>
-			<Page>Once you've found the <![CDATA[<b>Secret Words</b>]]> of one of them, send the words to the creator through discord (Fixxion6#4265) and he will include your name in the Timber Earths <![CDATA[<b>Archeologist Register</b>]]></Page>
-			<Page>Please, be fair and don't do look at the mod files to find it...</Page>
-			<Page>Now...Are you ready?</Page>
+			<Page>Hello, my name is Ginzarel. Welcome to <![CDATA[<b>Jötunn</b>]]>, the biggest and coldest planet in the solar system.</Page>
+			<Page>I imagine you have talked to my friend, Fixxion. He is as ugly as a sin, but he's also very kind. He probably hasn't told you about the <![CDATA[<b>Secret Words</b>]]>.</Page>
+			<Page>The <![CDATA[<b>Secret Words</b>]]> are a collection of codes hidden somewhere in the solar system. There is a code on each of the new planets!</Page>
+			<Page>Once you've found a few <![CDATA[<b>Secret Words</b>]]>, send them to the creator through Discord (Fixxion6#4265), and he will add your name to the Timber Hearth <![CDATA[<b>Archeologist Register</b>]]>!</Page>
+			<Page>Please be fair and don't look at the mod files to find the answers.</Page>
+			<Page>Now... are you ready?</Page>
 		</Dialogue>
 
 		<DialogueOptionsList>
 			<DialogueOption>
-				<Text>I've born ready mate!</Text>
+				<Text>I was born ready, mate!</Text>
 				<DialogueTarget>1</DialogueTarget>
 			</DialogueOption>
 			<DialogueOption>
-				<Text>Could you repeat the <![CDATA[<b>Secret Words</b>]]> rules?</Text>
+				<Text>Could you repeat the rules?</Text>
 				<DialogueTarget>2</DialogueTarget>
 			</DialogueOption>
 		</DialogueOptionsList>
@@ -29,16 +29,16 @@
 		<Name>2</Name>
 		<Dialogue>
 			<Page>Yeah, of course...</Page>
-			<Page>The <![CDATA[<b>Secret Words</b>]]> are a group of codes hidden in this solar system.</Page>
-			<Page>Once you've found them, send the <![CDATA[<b>Secret Words</b>]]> to the creator through Discord and he will include your name in the Timber Earths <![CDATA[<b>Archeologist Register</b>]]></Page>
-			<Page>Good luck with that...</Page>
+			<Page>The <![CDATA[<b>Secret Words</b>]]> are a collection of codes hidden in the solar system.</Page>
+			<Page>Once you've found a few <![CDATA[<b>Secret Words</b>]]>, send them to the creator through Discord (Fixxion6#4265), and he will add your name to the Timber Hearth <![CDATA[<b>Archeologist Register</b>]]>!</Page>
+			<Page>Good luck!</Page>
 		</Dialogue>
 	</DialogueNode>
 
 	<DialogueNode>
 		<Name>1</Name>
 		<Dialogue>
-			<Page>YEEEAAAHHH, Good luck, and stay determined!</Page>
+			<Page>YEEEAAAHHH! Good luck and stay determined!</Page>
 		</Dialogue>
 	</DialogueNode>
 

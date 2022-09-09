@@ -6,12 +6,12 @@
   <TextBlock>
     <ID>2</ID>
     <ParentID>1</ParentID>
-    <Text>Jötunn:</Text>
+    <Text>Jotunn:</Text>
   </TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Samster68, Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
@@ -21,7 +21,7 @@
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
@@ -31,7 +31,7 @@
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Samster68, Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
@@ -41,7 +41,7 @@
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Samster68, Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
@@ -51,36 +51,46 @@
 	<TextBlock>
 		<ID>11</ID>
 		<ParentID>10</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Samster68, Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>13</ID>
 		<ParentID>12</ParentID>
-		<Text>Secret:</Text>
+		<Text>Hidden:</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>14</ID>
 		<ParentID>13</ParentID>
-		<Text>...</Text>
+		<Text>Luckysticks121, ...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>15</ID>
 		<ParentID>14</ParentID>
-		<Text>Premium Archeologists (Got all of them)</Text>
+		<Text>Archeologists (Got all of them)</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>16</ID>
 		<ParentID>15</ParentID>
-		<Text>...</Text>
+		<Text>Tim, Luckysticks121, ...</Text>
 	</TextBlock>
-  <TextBlock>
-    <ID>17</ID>
-    <ParentID>16</ParentID>
-    <Text>If you desire to get your name appear here follow the rules and find <![CDATA[<b>The Secret Words</b>]]>. Talk to Ginzarel on <![CDATA[<b>Jötunn</b>]]> to learn more!</Text>
-  </TextBlock>
+	<TextBlock>
+		<ID>17</ID>
+		<ParentID>16</ParentID>
+		<Text>Premium Archeologists (Got all of them + Hidden Code). CONGRATULATIONS!!</Text>
+	</TextBlock>
 	<TextBlock>
 		<ID>18</ID>
 		<ParentID>17</ParentID>
-		<Text>Archeologist's will update every two weeks!</Text>
+		<Text>Luckysticks121, ...</Text>
+	</TextBlock>
+  <TextBlock>
+    <ID>19</ID>
+    <ParentID>18</ParentID>
+    <Text>If you want your name to appear here, follow the rules and find the <![CDATA[<b>Secret Words</b>]]>. Talk to Ginzarel on <![CDATA[<b>Jötunn</b>]]> to learn more!</Text>
+  </TextBlock>
+	<TextBlock>
+		<ID>20</ID>
+		<ParentID>19</ParentID>
+		<Text>The Archeologists will update every two weeks!</Text>
 	</TextBlock>
 </NomaiObject>

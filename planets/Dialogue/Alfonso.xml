@@ -5,10 +5,10 @@
 		<Name></Name>
 		<EntryCondition>DEFAULT</EntryCondition>
 		<Dialogue>
-			<Page>F*** you found me... The creator toldme  to hide in this planet but there are not many reliable places to do it...</Page>
-			<Page>I tried mimicking the corpses of my brothers but I see you got me...</Page>
-			<Page>Well... You are here for the Secret Words right? First you will have to help me with my math and Spanish homework...</Page>
-			<Page>So please, tell me... What's 2 +3?</Page>
+			<Page>F***, you found me... The creator told me to hide on this planet but there are not many places to hide on it...</Page>
+			<Page>I tried mimicking the corpses of my brothers, but somehow you still found me...</Page>
+			<Page>Well, you are here for the Secret Words, right? Before I give them to you, you have to help me with my Math and Spanish homework.</Page>
+			<Page>So please tell me... What's 2 + 3?</Page>
 		</Dialogue>
 
 		<DialogueOptionsList>
@@ -31,17 +31,17 @@
 		<Name>2</Name>
 		<Dialogue>
 			<Page>Te la meto del revés HAHAHAHAHAHAHA!</Page>
-			<Page>But the answer is wrong... Try again...</Page>
+			<Page>That answer is wrong... Try again!</Page>
 		</Dialogue>
 	</DialogueNode>
 
 	<DialogueNode>
 		<Name>1</Name>
 		<Dialogue>
-			<Page>Por el culo te la hinco HHAHAHAHAHAHAH! Te falta calle!</Page>
-			<Page>Sorry... Sorry... I had to do it... The answer is right! So listen to me...</Page>
+			<Page>Por el culo te la hinco HAHAHAHAHAHA! Te falta calle!</Page>
+			<Page>Sorry... Sorry... I had to do it... That answer is correct! Here are the Secret Words...</Page>
 			<Page>"We may not have much in common, you and I. Still, I consider you as a friend"</Page>
-			<Page>Those are the secret words! Now send them to the creator!</Page>
+			<Page>Those are the secret words! Go forth and use them wisely!</Page>
 		</Dialogue>
 	</DialogueNode>
 
@@ -49,7 +49,7 @@
 		<Name>3</Name>
 		<Dialogue>
 			<Page>Por el culo te la entocho! HAHAHAHAHAHHA!</Page>
-			<Page>But I cannot give tell you the Secret Words because the answer is wrong, you can try again if you like.</Page>
+			<Page>I cannot tell you the Secret Words because that answer is incorrect! Feel free to try again.</Page>
 		</Dialogue>
 	</DialogueNode>
 
